@@ -713,7 +713,7 @@ export const getAggregatedData = async () => {
     throw new Error('配置文件中找不到USERS数组')
   }
   const users = config.USERS
-  console.log(config.PROVINCE, user.province,111);
+
   for (const user of users) {
     // 获取每日天气
     const useProvince = user.province || config.PROVINCE
