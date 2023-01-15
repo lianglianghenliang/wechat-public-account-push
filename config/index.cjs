@@ -12,8 +12,8 @@ const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '26ace7db37af0a51cf2831ef4847eca6',
-  PROVINCE: '浙江',
-  CITY: '杭州',
+  PROVINCE: '河南',
+  CITY: '南阳',
   USERS: [
     {
       // 想要发送的人的名字
