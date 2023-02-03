@@ -12,8 +12,8 @@ const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '26ace7db37af0a51cf2831ef4847eca6',
-  PROVINCE: '河南',
-  CITY: '南阳',
+  PROVINCE: '浙江',
+  CITY: '杭州',
   USERS: [
     {
       // 想要发送的人的名字
@@ -47,8 +47,8 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  //  2dFMOUVWByV-KNkhnC53SUcqkSKVCjg9sldi-2B2CZQ
-  CALLBACK_TEMPLATE_ID: 'tivMVWvEM4CxLqjCLssmXfW0n0wi0fkVoswnCQRFOWU',
+
+  CALLBACK_TEMPLATE_ID: '2dFMOUVWByV-KNkhnC53SUcqkSKVCjg9sldi-2B2CZQ',
 
   CALLBACK_USERS: [
     {
