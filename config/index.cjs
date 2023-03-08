@@ -99,7 +99,7 @@ const USER_CONFIG = {
         { keyword: 'love_day', date: '2022-11-22' },
       ],
     },
-  ];	
+  ],	
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
 
