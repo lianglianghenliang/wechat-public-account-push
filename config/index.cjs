@@ -71,34 +71,6 @@ const USER_CONFIG = {
         { keyword: 'love_day', date: '2022-11-22' },
       ],
     },
-    {
-      // 想要发送的人的名字
-      name: '妍宝',
-      // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ofkZC6Re8-M0yfIxl3JyebO7J-lM',
-      // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '9u9AVZBPCOcp7rb3thPKowwleurMz0KEk_HuhYBuIsY',
-      // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '11-05',
-      festivals: [
-        // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        {
-          type: '*生日', name: '宝儿', year: '1998', date: '11-05',
-        },
-        // // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-        // {
-        //   type: '生日', name: '妍妍小仙女', year: '1998', date: '09-31',
-        // },
-        {
-          type: '节日', name: '相识纪念日', year: '2022', date: '11-22',
-        },
-      ],
-      // 我们在一起已经有xxxx天了的配置
-      customizedDateList: [
-        // 在一起的日子
-        { keyword: 'love_day', date: '2022-11-22' },
-      ],
-    },
   ],	
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
