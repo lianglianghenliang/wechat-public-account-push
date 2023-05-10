@@ -19,7 +19,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '妍宝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ofkZC6Re8-M0yfIxl3JyebO7J-lM',
+      id: 'ofkZC6WklR9_3ox-sdhvtWL_YI3c',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'tivMVWvEM4CxLqjCLssmXfW0n0wi0fkVoswnCQRFOWU',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -49,7 +49,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ofkZC6WklR9_3ox-sdhvtWL_YI3c',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'tivMVWvEM4CxLqjCLssmXfW0n0wi0fkVoswnCQRFOWU',
+      useTemplateId: '8o8zN533hrTQYYWNM88aYBORNXJlpYC3LV8nryhZyZI	',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '11-05',
       festivals: [
